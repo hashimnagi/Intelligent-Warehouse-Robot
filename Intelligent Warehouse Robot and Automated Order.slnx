@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Intelligent Warehouse Robot and Automated Order/Intelligent Warehouse Robot and Automated Order.vcxproj" />
+  <Project Path="Intelligent Warehouse Robot and Automated Order/Intelligent Warehouse Robot and Automated Order.vcxproj" Id="0b0bcda3-f220-4a7b-a253-20322522c26a" />
 </Solution>
