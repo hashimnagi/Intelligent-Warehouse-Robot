@@ -1,0 +1,11 @@
+.vs/
+*.suo
+*.user
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.vsidx
+Debug/
+Release/
+x64/
